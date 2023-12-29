@@ -1,0 +1,15 @@
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.AssemblyReference.cache
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.FormPacienti.resources
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.Properties.Resources.resources
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.GenerateResource.cache
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.csproj.CoreCompileInputs.cache
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.FormStart.resources
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\bin\Debug\Database1.mdf
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\bin\Debug\Database1_log.ldf
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.exe.config
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.exe
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\bin\Debug\ProiectFinal.pdb
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.exe
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.pdb
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.FormServicii.resources
+C:\Users\NewPC\source\repos\ProiectFinal\ProiectFinal\obj\Debug\ProiectFinal.ImaginiPacienti.FormInternari.resources
